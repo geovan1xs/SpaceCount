@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpaceCount</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Cadastrar">Criar conta</string>
+    <string name="esqueci_senha">Esqueceu a senha ?</string>
+    <string name="title_activity_form_cadastro">Cadastre-se</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="Deslogar">Deslogar</string>
+
+</resources>
